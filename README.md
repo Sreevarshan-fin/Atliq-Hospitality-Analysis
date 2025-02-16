@@ -1,5 +1,7 @@
 # Atliq-Hospitality-Analysis
 
+A huge thank you to Dhaval Patel Sir and Hemanand Vadivel Sir for giving me this amazing opportunity, and to the entire Code basics team for their unwavering support! 🙏
+
 This project has been an incredible learning experience, equipping me with essential skills and insights that will help me tackle future challenges in data analytics. I’m excited to apply this knowledge to contribute to business growth and drive innovation!
 
 Atliq Hospitality Philosophy:
@@ -25,4 +27,4 @@ Key Metrics Analyzed:
 👉 Booking: Analyzing booking patterns, peak seasons, and customer preferences to enhance marketing strategies and increase occupancy.
 👉 Rating: Monitoring guest reviews and ratings across platforms to identify areas for improvement in service quality, amenities, and overall guest satisfaction.
 
-These metrics provide valuable insights to improve operational performance, refine strategies, and ensure consistent growth at Atliq Hospitality.
+These metrics provide valuable insights to improve operational performance, refine strategies, and ensure consistent growth at Atliq Hospitality
